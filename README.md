@@ -1,3 +1,3 @@
-# CDK9-project
+# GitHub-course-exercise
 
-Linux and R scripts for the analysis of EU-seq data and Chip-seq data 
+Exercise for the Git and GitHub course
