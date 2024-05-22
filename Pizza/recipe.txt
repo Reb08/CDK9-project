@@ -1,1 +1,2 @@
 This is the recipe file
+Added an empty line
