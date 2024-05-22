@@ -1,3 +1,7 @@
-This is the recipe file-------
+<<<<<<< HEAD
+This is the recipe file!
 Added an empty line
 Empty line 2
+=======
+This is the recipe file!
+>>>>>>> experimental
