@@ -1,2 +1,2 @@
 This is the ingredient file
-Ingredient 1
+Ingredient 1Ingredient 2
